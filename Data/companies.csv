@@ -1,0 +1,11 @@
+CompanyID,CompanyName,Role,Package,Location,EligibilityCGPA
+1,TCS,Software Engineer,7.0,Hyderabad,7.0
+2,Infosys,Systems Engineer,6.5,Bangalore,6.5
+3,Accenture,Associate Software Engineer,6.8,Hyderabad,6.5
+4,Capgemini,Analyst,6.2,Pune,6.0
+5,Cognizant,Programmer Analyst,6.5,Chennai,6.5
+6,Deloitte,Consultant,8.5,Hyderabad,7.5
+7,Amazon,SDE-1,28.0,Bangalore,8.5
+8,Microsoft,Software Engineer,32.0,Hyderabad,8.8
+9,Google,Software Engineer,40.0,Hyderabad,9.0
+10,Oracle,Application Developer,12.0,Bangalore,7.5
